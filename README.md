@@ -30,7 +30,7 @@
 
 ##### `最新のミッションファイルを取得しますか?`と表示されるのではいを選択。ブラウザでEPICGamesアカウントにログインしている状態で表示されているリンクにアクセスすると認証コードを取得できるので貼り付けてください。
 
-![imgur](https://media.discordapp.net/attachments/1084186482975178946/1131445313094307840/auth.png?width=1440&height=103)
+![imgur]([https://media.discordapp.net/attachments/1084186482975178946/1131445313094307840/auth.png?width=1440&height=103](https://github.com/LemonCCjp/How-to-access-dev-missions/blob/main/img/auth.png?raw=true))
 
 ### 3.Fiddlerの設定をする。
 
